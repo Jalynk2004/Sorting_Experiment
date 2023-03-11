@@ -1,0 +1,10 @@
+Time to heap sort for testcase1.txt is 470034 microseconds
+Time to heap sort for testcase2.txt is 436516 microseconds
+Time to heap sort for testcase3.txt is 671903 microseconds
+Time to heap sort for testcase4.txt is 675332 microseconds
+Time to heap sort for testcase5.txt is 663039 microseconds
+Time to heap sort for testcase6.txt is 658883 microseconds
+Time to heap sort for testcase7.txt is 642176 microseconds
+Time to heap sort for testcase8.txt is 651020 microseconds
+Time to heap sort for testcase9.txt is 630448 microseconds
+Time to heap sort for testcase10.txt is 636840 microseconds

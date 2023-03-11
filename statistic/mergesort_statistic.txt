@@ -1,0 +1,10 @@
+Time to merge sort for testcase1.txt is 156454 microseconds
+Time to merge sort for testcase2.txt is 160470 microseconds
+Time to merge sort for testcase3.txt is 270929 microseconds
+Time to merge sort for testcase4.txt is 268330 microseconds
+Time to merge sort for testcase5.txt is 266872 microseconds
+Time to merge sort for testcase6.txt is 268569 microseconds
+Time to merge sort for testcase7.txt is 268644 microseconds
+Time to merge sort for testcase8.txt is 269653 microseconds
+Time to merge sort for testcase9.txt is 268772 microseconds
+Time to merge sort for testcase10.txt is 266374 microseconds

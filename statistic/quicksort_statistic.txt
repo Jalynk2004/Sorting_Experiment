@@ -1,0 +1,10 @@
+Time to quick sort for testcase1.txt is 46980 microseconds
+Time to quick sort for testcase2.txt is 45519 microseconds
+Time to quick sort for testcase3.txt is 187189 microseconds
+Time to quick sort for testcase4.txt is 186293 microseconds
+Time to quick sort for testcase5.txt is 186942 microseconds
+Time to quick sort for testcase6.txt is 190130 microseconds
+Time to quick sort for testcase7.txt is 187312 microseconds
+Time to quick sort for testcase8.txt is 189795 microseconds
+Time to quick sort for testcase9.txt is 186701 microseconds
+Time to quick sort for testcase10.txt is 185809 microseconds

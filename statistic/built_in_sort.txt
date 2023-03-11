@@ -1,0 +1,10 @@
+Time to C++ built-in sort for testcase1.txt is 99707 microseconds
+Time to C++ built-in sort for testcase2.txt is 79342 microseconds
+Time to C++ built-in sort for testcase3.txt is 272753 microseconds
+Time to C++ built-in sort for testcase4.txt is 269098 microseconds
+Time to C++ built-in sort for testcase5.txt is 272074 microseconds
+Time to C++ built-in sort for testcase6.txt is 271447 microseconds
+Time to C++ built-in sort for testcase7.txt is 274597 microseconds
+Time to C++ built-in sort for testcase8.txt is 272180 microseconds
+Time to C++ built-in sort for testcase9.txt is 271905 microseconds
+Time to C++ built-in sort for testcase10.txt is 351277 microseconds
