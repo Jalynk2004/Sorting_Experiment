@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-using namespace std;
+
 void merge(float arr[], int l, int m, int r){
     int i, j, k;
     int n1 = m - l + 1;
@@ -45,9 +45,8 @@ void mergeSort(float a[], int l, int r){
 }
 char file_name[200];
 int main(){
-	auto *a = new float[1000001]; 
+	float *a = new float[1000001]; 
 	for (unsigned int i = 0; i < 10; i++) {
-		memset(file_name, 0, sizeof(file_name));
 		sprintf(file_name, "testcase%u.txt", i + 1);
 		ifstream File(file_name);
 		for (unsigned int i = 0; i < 1000000 && (!File.eof()); i++){
