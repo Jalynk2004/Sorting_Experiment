@@ -1,5 +1,4 @@
-  #include <bits/stdc++.h>
-  using namespace std;
+ #include <bits/stdc++.h>
   
   void heapify(float arr[], int n, int i) {
     int largest = i;
