@@ -6,7 +6,7 @@ def gen_test():
 	return a
 def write(filename, arr):
     	f = open(filename, "w")
-    	print(*arr, file = f, sep = " ")
+    	print(*arr, file = f)
     	f.close()
 for i in range(0, 10):
     	a = gen_test()
