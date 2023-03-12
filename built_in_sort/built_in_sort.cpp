@@ -2,7 +2,7 @@
 
 char file_name[200];
 int main(){
-	auto *a = new float[1000001]; 
+	float *a = new float[1000001]; 
 	for (unsigned int i = 0; i < 10; i++) {
 		memset(file_name, 0, sizeof(file_name));
 		sprintf(file_name, "testcase%u.txt", i + 1);
