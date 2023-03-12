@@ -59,5 +59,6 @@ int main(){
 		auto duration =  std::chrono::duration_cast<std::chrono::microseconds>(end - begin);
 		cout << "Time to merge sort for " << file_name << " is " << duration.count() << " microseconds\n"; 
 	}
+	free(a)
 	return 0;
 }
